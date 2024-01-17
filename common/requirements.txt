@@ -17,3 +17,4 @@ python-dotenv
 azure-ai-formrecognizer
 azure-storage-blob
 rarfile
+requests
